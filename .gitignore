@@ -1,0 +1,13 @@
+# Cybergroup reference backup archive
+cybergroup_reference/
+
+# Lead logs & sensitive dynamic files
+leads_log.json
+
+# OS & Editor generated files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+.vscode/
+.idea/

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /cybergroup_reference/
+Disallow: /leads_log.json
+
+Sitemap: https://dbimpex.in/sitemap.xml
