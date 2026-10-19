@@ -262,27 +262,12 @@
         
     <div class="product-card" data-category="cctv-camera">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">CCTV Camera</span>
         <img src="assets/images/images_products_cctv-1.jpg" alt="Fixed IP Cameras" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Fixed IP Cameras</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Fixed IP Cameras (CCTV Camera)">
             Request Quote
           </button>
@@ -292,27 +277,12 @@
     
     <div class="product-card" data-category="cctv-camera">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">CCTV Camera</span>
         <img src="assets/images/images_products_cctv-2.jpg" alt="Pan, Tilt & Zoom Cameras" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Pan, Tilt & Zoom Cameras</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Pan, Tilt & Zoom Cameras (CCTV Camera)">
             Request Quote
           </button>
@@ -322,27 +292,12 @@
     
     <div class="product-card" data-category="cctv-camera">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">CCTV Camera</span>
         <img src="assets/images/images_products_cctv-3.jpg" alt="Panoramic IP Cameras" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Panoramic IP Cameras</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Panoramic IP Cameras (CCTV Camera)">
             Request Quote
           </button>
@@ -352,27 +307,12 @@
     
     <div class="product-card" data-category="cctv-camera">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">CCTV Camera</span>
         <img src="assets/images/images_products_cctv-4.jpg" alt="Thermal Camera Solutions" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Thermal Camera Solutions</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Thermal Camera Solutions (CCTV Camera)">
             Request Quote
           </button>
@@ -382,27 +322,12 @@
     
     <div class="product-card" data-category="cctv-camera">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">CCTV Camera</span>
         <img src="assets/images/images_products_cctv-12.jpg" alt="CCTV Camera" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">CCTV Camera</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="CCTV Camera (CCTV Camera)">
             Request Quote
           </button>
@@ -412,27 +337,12 @@
     
     <div class="product-card" data-category="cctv-camera">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">CCTV Camera</span>
         <img src="assets/images/images_products_cctv-5.jpg" alt="Fortified Camera Systems" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Fortified Camera Systems</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Fortified Camera Systems (CCTV Camera)">
             Request Quote
           </button>
@@ -442,27 +352,12 @@
     
     <div class="product-card" data-category="cctv-camera">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">CCTV Camera</span>
         <img src="assets/images/images_products_cctv-6.jpg" alt="Multi-Sensor Camera" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Multi-Sensor Camera</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Multi-Sensor Camera (CCTV Camera)">
             Request Quote
           </button>
@@ -472,27 +367,12 @@
     
     <div class="product-card" data-category="cctv-camera">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">CCTV Camera</span>
         <img src="assets/images/images_products_cctv-7.jpg" alt="4K Camera" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">4K Camera</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="4K Camera (CCTV Camera)">
             Request Quote
           </button>
@@ -502,27 +382,12 @@
     
     <div class="product-card" data-category="cctv-camera">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">CCTV Camera</span>
         <img src="assets/images/images_products_cctv-8.jpg" alt="In-Vehicle Camera" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">In-Vehicle Camera</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="In-Vehicle Camera (CCTV Camera)">
             Request Quote
           </button>
@@ -532,27 +397,12 @@
     
     <div class="product-card" data-category="cctv-camera">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">CCTV Camera</span>
         <img src="assets/images/images_products_cctv-9.jpg" alt="Explosion/Flame Proof Camera" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Explosion/Flame Proof Camera</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Explosion/Flame Proof Camera (CCTV Camera)">
             Request Quote
           </button>
@@ -562,27 +412,12 @@
     
     <div class="product-card" data-category="cctv-camera">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">CCTV Camera</span>
         <img src="assets/images/images_products_cctv-10.jpg" alt="Remote Health Monitoring System" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Remote Health Monitoring System</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Remote Health Monitoring System (CCTV Camera)">
             Request Quote
           </button>
@@ -592,27 +427,12 @@
     
     <div class="product-card" data-category="cctv-camera">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">CCTV Camera</span>
         <img src="assets/images/images_products_cctv-11.jpg" alt="Remote Health Monitoring System" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Remote Health Monitoring System</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Remote Health Monitoring System (CCTV Camera)">
             Request Quote
           </button>
@@ -813,12 +633,6 @@
       <a href="https://wa.me/918320383785" target="_blank" rel="noopener" class="float-btn float-whatsapp" title="WhatsApp DB IMPEX" aria-label="WhatsApp Us">
         <svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.711 2.598 2.668-.699c.969.584 1.769.882 2.792.882 3.182 0 5.767-2.587 5.768-5.766 0-3.18-2.586-5.768-5.768-5.768zm0-2.172c4.378 0 7.938 3.559 7.938 7.94 0 4.38-3.56 7.939-7.938 7.939-1.332 0-2.593-.332-3.7-.927l-4.331 1.135 1.155-4.225c-.663-1.163-1.062-2.511-1.062-3.922 0-4.381 3.56-7.94 7.938-7.94zm-1.897 10.749c-.279.141-.659.212-1.028.188-.415-.027-.852-.204-1.289-.481-1.127-.714-1.875-1.785-2.227-2.314-.351-.53-.027-.816.113-1.037.126-.197.279-.434.419-.651.139-.217.186-.372.279-.62.093-.248.047-.465-.023-.651-.07-.186-.628-1.512-.86-2.07-.226-.543-.456-.469-.628-.477-.163-.008-.349-.01-.535-.01-.186 0-.488.07-.744.349-.256.279-.977.954-.977 2.326s1.001 2.698 1.14 2.884c.14.186 1.968 3.006 4.77 4.215.666.288 1.187.46 1.593.589.67.213 1.28.183 1.761.111.537-.08 1.65-.674 1.883-1.325.233-.651.233-1.209.163-1.325-.07-.116-.256-.186-.535-.326z"/></svg>
       </a>
-      <a href="tel:+918320383785" class="float-btn float-call" title="Call DB IMPEX" aria-label="Call Us Directly">
-        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-      </a>
-      <button class="float-btn back-to-top" title="Back to top" aria-label="Back to Top">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="18 15 12 9 6 15"></polyline></svg>
-      </button>
     </div>
 
     <!-- Scripts -->

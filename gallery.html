@@ -251,8 +251,13 @@
         <div class="videos-grid">
     
           <div class="video-card">
-            <div class="video-frame-wrap">
-              <iframe src="https://www.youtube.com/embed/gkFttbaHJfg" title="Industrial Siren & Automated Timer Demo" allowfullscreen loading="lazy"></iframe>
+            <div class="video-frame-wrap" style="background: linear-gradient(135deg, #0B192C 0%, #1E3E62 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:1.5rem; text-align:center;">
+              <a href="https://www.youtube.com/channel/UCGA_NkZcM_EIrCE6m0U77zg" target="_blank" rel="noopener" style="display:flex; flex-direction:column; align-items:center; gap:0.75rem; text-decoration:none; color:#FFFFFF;">
+                <div style="width:56px; height:56px; border-radius:50%; background:rgba(255,0,0,0.9); display:flex; align-items:center; justify-content:center; box-shadow:0 6px 16px rgba(0,0,0,0.3); transition:transform 0.2s;">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFFFFF"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                </div>
+                <span style="font-size:0.85rem; font-weight:700; color:#CBD5E1; letter-spacing:0.04em;">WATCH ON OFFICIAL YOUTUBE</span>
+              </a>
             </div>
             <div class="video-card-body">
               <h3 class="video-card-title">Industrial Siren & Automated Timer Demo</h3>
@@ -261,8 +266,13 @@
           </div>
         
           <div class="video-card">
-            <div class="video-frame-wrap">
-              <iframe src="https://www.youtube.com/embed/OvHibWv9SCQ" title="X-Ray Baggage Inspection Scanner Demonstration" allowfullscreen loading="lazy"></iframe>
+            <div class="video-frame-wrap" style="background: linear-gradient(135deg, #0B192C 0%, #1E3E62 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:1.5rem; text-align:center;">
+              <a href="https://www.youtube.com/channel/UCGA_NkZcM_EIrCE6m0U77zg" target="_blank" rel="noopener" style="display:flex; flex-direction:column; align-items:center; gap:0.75rem; text-decoration:none; color:#FFFFFF;">
+                <div style="width:56px; height:56px; border-radius:50%; background:rgba(255,0,0,0.9); display:flex; align-items:center; justify-content:center; box-shadow:0 6px 16px rgba(0,0,0,0.3); transition:transform 0.2s;">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFFFFF"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                </div>
+                <span style="font-size:0.85rem; font-weight:700; color:#CBD5E1; letter-spacing:0.04em;">WATCH ON OFFICIAL YOUTUBE</span>
+              </a>
             </div>
             <div class="video-card-body">
               <h3 class="video-card-title">X-Ray Baggage Inspection Scanner Demonstration</h3>
@@ -271,8 +281,13 @@
           </div>
         
           <div class="video-card">
-            <div class="video-frame-wrap">
-              <iframe src="https://www.youtube.com/embed/ze5Dr_7uBvk" title="Explosive & Trace Vapor Detection Overview" allowfullscreen loading="lazy"></iframe>
+            <div class="video-frame-wrap" style="background: linear-gradient(135deg, #0B192C 0%, #1E3E62 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:1.5rem; text-align:center;">
+              <a href="https://www.youtube.com/channel/UCGA_NkZcM_EIrCE6m0U77zg" target="_blank" rel="noopener" style="display:flex; flex-direction:column; align-items:center; gap:0.75rem; text-decoration:none; color:#FFFFFF;">
+                <div style="width:56px; height:56px; border-radius:50%; background:rgba(255,0,0,0.9); display:flex; align-items:center; justify-content:center; box-shadow:0 6px 16px rgba(0,0,0,0.3); transition:transform 0.2s;">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFFFFF"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                </div>
+                <span style="font-size:0.85rem; font-weight:700; color:#CBD5E1; letter-spacing:0.04em;">WATCH ON OFFICIAL YOUTUBE</span>
+              </a>
             </div>
             <div class="video-card-body">
               <h3 class="video-card-title">Explosive & Trace Vapor Detection Overview</h3>
@@ -281,8 +296,13 @@
           </div>
         
           <div class="video-card">
-            <div class="video-frame-wrap">
-              <iframe src="https://www.youtube.com/embed/lMYy3isuqfI" title="Door Frame Metal Detector (DFMD) Walk-Through" allowfullscreen loading="lazy"></iframe>
+            <div class="video-frame-wrap" style="background: linear-gradient(135deg, #0B192C 0%, #1E3E62 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:1.5rem; text-align:center;">
+              <a href="https://www.youtube.com/channel/UCGA_NkZcM_EIrCE6m0U77zg" target="_blank" rel="noopener" style="display:flex; flex-direction:column; align-items:center; gap:0.75rem; text-decoration:none; color:#FFFFFF;">
+                <div style="width:56px; height:56px; border-radius:50%; background:rgba(255,0,0,0.9); display:flex; align-items:center; justify-content:center; box-shadow:0 6px 16px rgba(0,0,0,0.3); transition:transform 0.2s;">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFFFFF"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                </div>
+                <span style="font-size:0.85rem; font-weight:700; color:#CBD5E1; letter-spacing:0.04em;">WATCH ON OFFICIAL YOUTUBE</span>
+              </a>
             </div>
             <div class="video-card-body">
               <h3 class="video-card-title">Door Frame Metal Detector (DFMD) Walk-Through</h3>
@@ -291,8 +311,13 @@
           </div>
         
           <div class="video-card">
-            <div class="video-frame-wrap">
-              <iframe src="https://www.youtube.com/embed/qKzEKNWGwtI" title="Under Vehicle Surveillance System (UVSS) Inspection" allowfullscreen loading="lazy"></iframe>
+            <div class="video-frame-wrap" style="background: linear-gradient(135deg, #0B192C 0%, #1E3E62 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:1.5rem; text-align:center;">
+              <a href="https://www.youtube.com/channel/UCGA_NkZcM_EIrCE6m0U77zg" target="_blank" rel="noopener" style="display:flex; flex-direction:column; align-items:center; gap:0.75rem; text-decoration:none; color:#FFFFFF;">
+                <div style="width:56px; height:56px; border-radius:50%; background:rgba(255,0,0,0.9); display:flex; align-items:center; justify-content:center; box-shadow:0 6px 16px rgba(0,0,0,0.3); transition:transform 0.2s;">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFFFFF"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                </div>
+                <span style="font-size:0.85rem; font-weight:700; color:#CBD5E1; letter-spacing:0.04em;">WATCH ON OFFICIAL YOUTUBE</span>
+              </a>
             </div>
             <div class="video-card-body">
               <h3 class="video-card-title">Under Vehicle Surveillance System (UVSS) Inspection</h3>
@@ -301,8 +326,13 @@
           </div>
         
           <div class="video-card">
-            <div class="video-frame-wrap">
-              <iframe src="https://www.youtube.com/embed/KP1rAvTetR4" title="NLJD Non-Linear Junction Detector in Action" allowfullscreen loading="lazy"></iframe>
+            <div class="video-frame-wrap" style="background: linear-gradient(135deg, #0B192C 0%, #1E3E62 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:1.5rem; text-align:center;">
+              <a href="https://www.youtube.com/channel/UCGA_NkZcM_EIrCE6m0U77zg" target="_blank" rel="noopener" style="display:flex; flex-direction:column; align-items:center; gap:0.75rem; text-decoration:none; color:#FFFFFF;">
+                <div style="width:56px; height:56px; border-radius:50%; background:rgba(255,0,0,0.9); display:flex; align-items:center; justify-content:center; box-shadow:0 6px 16px rgba(0,0,0,0.3); transition:transform 0.2s;">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFFFFF"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                </div>
+                <span style="font-size:0.85rem; font-weight:700; color:#CBD5E1; letter-spacing:0.04em;">WATCH ON OFFICIAL YOUTUBE</span>
+              </a>
             </div>
             <div class="video-card-body">
               <h3 class="video-card-title">NLJD Non-Linear Junction Detector in Action</h3>
@@ -311,8 +341,13 @@
           </div>
         
           <div class="video-card">
-            <div class="video-frame-wrap">
-              <iframe src="https://www.youtube.com/embed/o0PwXQSxY8" title="Fire Alarm & Voice Evacuation Control Test" allowfullscreen loading="lazy"></iframe>
+            <div class="video-frame-wrap" style="background: linear-gradient(135deg, #0B192C 0%, #1E3E62 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:1.5rem; text-align:center;">
+              <a href="https://www.youtube.com/channel/UCGA_NkZcM_EIrCE6m0U77zg" target="_blank" rel="noopener" style="display:flex; flex-direction:column; align-items:center; gap:0.75rem; text-decoration:none; color:#FFFFFF;">
+                <div style="width:56px; height:56px; border-radius:50%; background:rgba(255,0,0,0.9); display:flex; align-items:center; justify-content:center; box-shadow:0 6px 16px rgba(0,0,0,0.3); transition:transform 0.2s;">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFFFFF"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                </div>
+                <span style="font-size:0.85rem; font-weight:700; color:#CBD5E1; letter-spacing:0.04em;">WATCH ON OFFICIAL YOUTUBE</span>
+              </a>
             </div>
             <div class="video-card-body">
               <h3 class="video-card-title">Fire Alarm & Voice Evacuation Control Test</h3>
@@ -321,8 +356,13 @@
           </div>
         
           <div class="video-card">
-            <div class="video-frame-wrap">
-              <iframe src="https://www.youtube.com/embed/z6QIAyOcd9w" title="High-Speed Automatic Boom Barrier Operations" allowfullscreen loading="lazy"></iframe>
+            <div class="video-frame-wrap" style="background: linear-gradient(135deg, #0B192C 0%, #1E3E62 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:1.5rem; text-align:center;">
+              <a href="https://www.youtube.com/channel/UCGA_NkZcM_EIrCE6m0U77zg" target="_blank" rel="noopener" style="display:flex; flex-direction:column; align-items:center; gap:0.75rem; text-decoration:none; color:#FFFFFF;">
+                <div style="width:56px; height:56px; border-radius:50%; background:rgba(255,0,0,0.9); display:flex; align-items:center; justify-content:center; box-shadow:0 6px 16px rgba(0,0,0,0.3); transition:transform 0.2s;">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFFFFF"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                </div>
+                <span style="font-size:0.85rem; font-weight:700; color:#CBD5E1; letter-spacing:0.04em;">WATCH ON OFFICIAL YOUTUBE</span>
+              </a>
             </div>
             <div class="video-card-body">
               <h3 class="video-card-title">High-Speed Automatic Boom Barrier Operations</h3>
@@ -331,8 +371,13 @@
           </div>
         
           <div class="video-card">
-            <div class="video-frame-wrap">
-              <iframe src="https://www.youtube.com/embed/DkfvInl4nGI" title="CCTV Remote Surveillance & CMS Workstation" allowfullscreen loading="lazy"></iframe>
+            <div class="video-frame-wrap" style="background: linear-gradient(135deg, #0B192C 0%, #1E3E62 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:1.5rem; text-align:center;">
+              <a href="https://www.youtube.com/channel/UCGA_NkZcM_EIrCE6m0U77zg" target="_blank" rel="noopener" style="display:flex; flex-direction:column; align-items:center; gap:0.75rem; text-decoration:none; color:#FFFFFF;">
+                <div style="width:56px; height:56px; border-radius:50%; background:rgba(255,0,0,0.9); display:flex; align-items:center; justify-content:center; box-shadow:0 6px 16px rgba(0,0,0,0.3); transition:transform 0.2s;">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFFFFF"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                </div>
+                <span style="font-size:0.85rem; font-weight:700; color:#CBD5E1; letter-spacing:0.04em;">WATCH ON OFFICIAL YOUTUBE</span>
+              </a>
             </div>
             <div class="video-card-body">
               <h3 class="video-card-title">CCTV Remote Surveillance & CMS Workstation</h3>
@@ -341,8 +386,13 @@
           </div>
         
           <div class="video-card">
-            <div class="video-frame-wrap">
-              <iframe src="https://www.youtube.com/embed/7By22i5Sk8I" title="Bomb Blanket & Safety Enclosure Deployment" allowfullscreen loading="lazy"></iframe>
+            <div class="video-frame-wrap" style="background: linear-gradient(135deg, #0B192C 0%, #1E3E62 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:1.5rem; text-align:center;">
+              <a href="https://www.youtube.com/channel/UCGA_NkZcM_EIrCE6m0U77zg" target="_blank" rel="noopener" style="display:flex; flex-direction:column; align-items:center; gap:0.75rem; text-decoration:none; color:#FFFFFF;">
+                <div style="width:56px; height:56px; border-radius:50%; background:rgba(255,0,0,0.9); display:flex; align-items:center; justify-content:center; box-shadow:0 6px 16px rgba(0,0,0,0.3); transition:transform 0.2s;">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFFFFF"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                </div>
+                <span style="font-size:0.85rem; font-weight:700; color:#CBD5E1; letter-spacing:0.04em;">WATCH ON OFFICIAL YOUTUBE</span>
+              </a>
             </div>
             <div class="video-card-body">
               <h3 class="video-card-title">Bomb Blanket & Safety Enclosure Deployment</h3>
@@ -351,8 +401,13 @@
           </div>
         
           <div class="video-card">
-            <div class="video-frame-wrap">
-              <iframe src="https://www.youtube.com/embed/NrKgB7qUzEQ" title="ATM Security Sensors & Gas Dispersion Safeguard" allowfullscreen loading="lazy"></iframe>
+            <div class="video-frame-wrap" style="background: linear-gradient(135deg, #0B192C 0%, #1E3E62 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:1.5rem; text-align:center;">
+              <a href="https://www.youtube.com/channel/UCGA_NkZcM_EIrCE6m0U77zg" target="_blank" rel="noopener" style="display:flex; flex-direction:column; align-items:center; gap:0.75rem; text-decoration:none; color:#FFFFFF;">
+                <div style="width:56px; height:56px; border-radius:50%; background:rgba(255,0,0,0.9); display:flex; align-items:center; justify-content:center; box-shadow:0 6px 16px rgba(0,0,0,0.3); transition:transform 0.2s;">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFFFFF"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                </div>
+                <span style="font-size:0.85rem; font-weight:700; color:#CBD5E1; letter-spacing:0.04em;">WATCH ON OFFICIAL YOUTUBE</span>
+              </a>
             </div>
             <div class="video-card-body">
               <h3 class="video-card-title">ATM Security Sensors & Gas Dispersion Safeguard</h3>
@@ -361,8 +416,13 @@
           </div>
         
           <div class="video-card">
-            <div class="video-frame-wrap">
-              <iframe src="https://www.youtube.com/embed/FkSOltbQrXw" title="Thermal Imaging & Optical Dual Spectrum Monitoring" allowfullscreen loading="lazy"></iframe>
+            <div class="video-frame-wrap" style="background: linear-gradient(135deg, #0B192C 0%, #1E3E62 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:1.5rem; text-align:center;">
+              <a href="https://www.youtube.com/channel/UCGA_NkZcM_EIrCE6m0U77zg" target="_blank" rel="noopener" style="display:flex; flex-direction:column; align-items:center; gap:0.75rem; text-decoration:none; color:#FFFFFF;">
+                <div style="width:56px; height:56px; border-radius:50%; background:rgba(255,0,0,0.9); display:flex; align-items:center; justify-content:center; box-shadow:0 6px 16px rgba(0,0,0,0.3); transition:transform 0.2s;">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFFFFF"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                </div>
+                <span style="font-size:0.85rem; font-weight:700; color:#CBD5E1; letter-spacing:0.04em;">WATCH ON OFFICIAL YOUTUBE</span>
+              </a>
             </div>
             <div class="video-card-body">
               <h3 class="video-card-title">Thermal Imaging & Optical Dual Spectrum Monitoring</h3>
@@ -371,8 +431,13 @@
           </div>
         
           <div class="video-card">
-            <div class="video-frame-wrap">
-              <iframe src="https://www.youtube.com/embed/7yyw19UUbjM" title="Industrial High-Decibel Warning Siren Array" allowfullscreen loading="lazy"></iframe>
+            <div class="video-frame-wrap" style="background: linear-gradient(135deg, #0B192C 0%, #1E3E62 100%); display:flex; flex-direction:column; align-items:center; justify-content:center; padding:1.5rem; text-align:center;">
+              <a href="https://www.youtube.com/channel/UCGA_NkZcM_EIrCE6m0U77zg" target="_blank" rel="noopener" style="display:flex; flex-direction:column; align-items:center; gap:0.75rem; text-decoration:none; color:#FFFFFF;">
+                <div style="width:56px; height:56px; border-radius:50%; background:rgba(255,0,0,0.9); display:flex; align-items:center; justify-content:center; box-shadow:0 6px 16px rgba(0,0,0,0.3); transition:transform 0.2s;">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="#FFFFFF"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+                </div>
+                <span style="font-size:0.85rem; font-weight:700; color:#CBD5E1; letter-spacing:0.04em;">WATCH ON OFFICIAL YOUTUBE</span>
+              </a>
             </div>
             <div class="video-card-body">
               <h3 class="video-card-title">Industrial High-Decibel Warning Siren Array</h3>
@@ -525,12 +590,6 @@
       <a href="https://wa.me/918320383785" target="_blank" rel="noopener" class="float-btn float-whatsapp" title="WhatsApp DB IMPEX" aria-label="WhatsApp Us">
         <svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.711 2.598 2.668-.699c.969.584 1.769.882 2.792.882 3.182 0 5.767-2.587 5.768-5.766 0-3.18-2.586-5.768-5.768-5.768zm0-2.172c4.378 0 7.938 3.559 7.938 7.94 0 4.38-3.56 7.939-7.938 7.939-1.332 0-2.593-.332-3.7-.927l-4.331 1.135 1.155-4.225c-.663-1.163-1.062-2.511-1.062-3.922 0-4.381 3.56-7.94 7.938-7.94zm-1.897 10.749c-.279.141-.659.212-1.028.188-.415-.027-.852-.204-1.289-.481-1.127-.714-1.875-1.785-2.227-2.314-.351-.53-.027-.816.113-1.037.126-.197.279-.434.419-.651.139-.217.186-.372.279-.62.093-.248.047-.465-.023-.651-.07-.186-.628-1.512-.86-2.07-.226-.543-.456-.469-.628-.477-.163-.008-.349-.01-.535-.01-.186 0-.488.07-.744.349-.256.279-.977.954-.977 2.326s1.001 2.698 1.14 2.884c.14.186 1.968 3.006 4.77 4.215.666.288 1.187.46 1.593.589.67.213 1.28.183 1.761.111.537-.08 1.65-.674 1.883-1.325.233-.651.233-1.209.163-1.325-.07-.116-.256-.186-.535-.326z"/></svg>
       </a>
-      <a href="tel:+918320383785" class="float-btn float-call" title="Call DB IMPEX" aria-label="Call Us Directly">
-        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-      </a>
-      <button class="float-btn back-to-top" title="Back to top" aria-label="Back to Top">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="18 15 12 9 6 15"></polyline></svg>
-      </button>
     </div>
 
     <!-- Scripts -->

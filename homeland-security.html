@@ -262,27 +262,12 @@
         
     <div class="product-card" data-category="homeland-security">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">Homeland Security</span>
         <img src="assets/images/images_homeland_home-1.jpg" alt="X Ray Baggage Scanner" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">X Ray Baggage Scanner</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="X Ray Baggage Scanner (Homeland Security)">
             Request Quote
           </button>
@@ -292,27 +277,12 @@
     
     <div class="product-card" data-category="homeland-security">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">Homeland Security</span>
         <img src="assets/images/images_homeland_home-2.jpg" alt="NLJD Detector" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">NLJD Detector</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="NLJD Detector (Homeland Security)">
             Request Quote
           </button>
@@ -322,27 +292,12 @@
     
     <div class="product-card" data-category="homeland-security">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">Homeland Security</span>
         <img src="assets/images/images_homeland_home-3.jpg" alt="Explosive Detector" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Explosive Detector</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Explosive Detector (Homeland Security)">
             Request Quote
           </button>
@@ -352,27 +307,12 @@
     
     <div class="product-card" data-category="homeland-security">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">Homeland Security</span>
         <img src="assets/images/images_homeland_home-4.jpg" alt="Bomb Blanket" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Bomb Blanket</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Bomb Blanket (Homeland Security)">
             Request Quote
           </button>
@@ -382,27 +322,12 @@
     
     <div class="product-card" data-category="homeland-security">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">Homeland Security</span>
         <img src="assets/images/images_homeland_home-5.jpg" alt="Door Frame Metal Detector" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Door Frame Metal Detector</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Door Frame Metal Detector (Homeland Security)">
             Request Quote
           </button>
@@ -412,27 +337,12 @@
     
     <div class="product-card" data-category="homeland-security">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">Homeland Security</span>
         <img src="assets/images/images_homeland_home-6.jpg" alt="Under Vehicle Scanner" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Under Vehicle Scanner</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Under Vehicle Scanner (Homeland Security)">
             Request Quote
           </button>
@@ -442,27 +352,12 @@
     
     <div class="product-card" data-category="homeland-security">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">Homeland Security</span>
         <img src="assets/images/images_homeland_home-7.jpg" alt="Search Flashlight" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Search Flashlight</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Search Flashlight (Homeland Security)">
             Request Quote
           </button>
@@ -472,27 +367,12 @@
     
     <div class="product-card" data-category="homeland-security">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">Homeland Security</span>
         <img src="assets/images/images_homeland_home-8.jpg" alt="Hand Held Metal Detector" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Hand Held Metal Detector</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Hand Held Metal Detector (Homeland Security)">
             Request Quote
           </button>
@@ -502,27 +382,12 @@
     
     <div class="product-card" data-category="homeland-security">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">Homeland Security</span>
         <img src="assets/images/images_homeland_home-9.jpg" alt="Bollard" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Bollard</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Bollard (Homeland Security)">
             Request Quote
           </button>
@@ -532,27 +397,12 @@
     
     <div class="product-card" data-category="homeland-security">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">Homeland Security</span>
         <img src="assets/images/images_homeland_home-10.jpg" alt="Mobile Sim Detector" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Mobile Sim Detector</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Mobile Sim Detector (Homeland Security)">
             Request Quote
           </button>
@@ -562,27 +412,12 @@
     
     <div class="product-card" data-category="homeland-security">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">Homeland Security</span>
         <img src="assets/images/images_homeland_home-11.jpg" alt="Shock Baton & Poly Shield" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Shock Baton & Poly Shield</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Shock Baton & Poly Shield (Homeland Security)">
             Request Quote
           </button>
@@ -592,27 +427,12 @@
     
     <div class="product-card" data-category="homeland-security">
       <div class="product-img-wrap">
-        <span class="product-badge-cat">Homeland Security</span>
         <img src="assets/images/images_homeland_home-12.jpg" alt="Electric Perimeter Fencing" loading="lazy">
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Electric Perimeter Fencing</h4>
-        <div class="product-card-sub">Industrial Grade &bull; Verified Quality</div>
-        <div class="product-specs-list">
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>Certified Commercial Standard</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>OEM Specifications & Warranty</span>
-          </div>
-          <div class="product-spec-item">
-            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><polyline points="20 6 9 17 4 12"></polyline></svg>
-            <span>AMC & Technical Support Available</span>
-          </div>
-        </div>
-        <div class="product-card-action">
+      </div>
+      <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Electric Perimeter Fencing (Homeland Security)">
             Request Quote
           </button>
@@ -813,12 +633,6 @@
       <a href="https://wa.me/918320383785" target="_blank" rel="noopener" class="float-btn float-whatsapp" title="WhatsApp DB IMPEX" aria-label="WhatsApp Us">
         <svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.711 2.598 2.668-.699c.969.584 1.769.882 2.792.882 3.182 0 5.767-2.587 5.768-5.766 0-3.18-2.586-5.768-5.768-5.768zm0-2.172c4.378 0 7.938 3.559 7.938 7.94 0 4.38-3.56 7.939-7.938 7.939-1.332 0-2.593-.332-3.7-.927l-4.331 1.135 1.155-4.225c-.663-1.163-1.062-2.511-1.062-3.922 0-4.381 3.56-7.94 7.938-7.94zm-1.897 10.749c-.279.141-.659.212-1.028.188-.415-.027-.852-.204-1.289-.481-1.127-.714-1.875-1.785-2.227-2.314-.351-.53-.027-.816.113-1.037.126-.197.279-.434.419-.651.139-.217.186-.372.279-.62.093-.248.047-.465-.023-.651-.07-.186-.628-1.512-.86-2.07-.226-.543-.456-.469-.628-.477-.163-.008-.349-.01-.535-.01-.186 0-.488.07-.744.349-.256.279-.977.954-.977 2.326s1.001 2.698 1.14 2.884c.14.186 1.968 3.006 4.77 4.215.666.288 1.187.46 1.593.589.67.213 1.28.183 1.761.111.537-.08 1.65-.674 1.883-1.325.233-.651.233-1.209.163-1.325-.07-.116-.256-.186-.535-.326z"/></svg>
       </a>
-      <a href="tel:+918320383785" class="float-btn float-call" title="Call DB IMPEX" aria-label="Call Us Directly">
-        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
-      </a>
-      <button class="float-btn back-to-top" title="Back to top" aria-label="Back to Top">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="18 15 12 9 6 15"></polyline></svg>
-      </button>
     </div>
 
     <!-- Scripts -->
