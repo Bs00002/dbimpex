@@ -43,17 +43,19 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // 2. Sticky Header Shadow
+  // 2. Sticky Header Transition
   const header = document.querySelector('.site-header');
-  window.addEventListener('scroll', () => {
+  function handleHeaderScroll() {
     if (header) {
-      if (window.scrollY > 40) {
-        header.style.boxShadow = '0 4px 20px rgba(0, 0, 0, 0.08)';
+      if (window.scrollY > 20) {
+        header.classList.add('is-scrolled');
       } else {
-        header.style.boxShadow = '0 2px 10px rgba(0, 0, 0, 0.06)';
+        header.classList.remove('is-scrolled');
       }
     }
-  });
+  }
+  window.addEventListener('scroll', handleHeaderScroll, { passive: true });
+  handleHeaderScroll();
 
   // 3. Back to Top Button
   const backToTop = document.querySelector('.back-to-top');
@@ -182,4 +184,31 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
   });
+
+  // 8. Tasteful Viewport Scroll Reveal Animations
+  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (!prefersReducedMotion && 'IntersectionObserver' in window) {
+    const revealTargets = document.querySelectorAll(
+      '.section-header, .category-card, .service-card, .product-card, .industry-card, .video-card, .location-card, .form-card, .about-visual, .about-content, .brand-logo-item'
+    );
+
+    revealTargets.forEach(el => {
+      el.classList.add('reveal-on-scroll');
+    });
+
+    const revealObserver = new IntersectionObserver((entries, observer) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('is-revealed');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, {
+      root: null,
+      threshold: 0.08,
+      rootMargin: '0px 0px -30px 0px'
+    });
+
+    revealTargets.forEach(el => revealObserver.observe(el));
+  }
 });
