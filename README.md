@@ -37,7 +37,7 @@ This repository contains the complete redesigned website built with a modern cor
   - Production PHP mailer (`send_form_email.php`)
   - Built-in honeypot anti-spam defense
   - Fail-safe local JSON lead logger (`leads_log.json`) so no customer inquiry is ever lost
-  - Direct WhatsApp click-to-chat (`+91 99980 11004`) and click-to-call (`+91 8320383785`)
+  - Direct WhatsApp click-to-chat (`+91 8320383785`) and click-to-call (`+91 8320383785`)
 - **Technical SEO & Quality:**
   - Schema.org structured data (`SecurityService`)
   - XML sitemap (`sitemap.xml`) and `robots.txt`
@@ -90,6 +90,6 @@ This repository contains the complete redesigned website built with a modern cor
 - **Registered Office:** B-508, Baleshwar Krupa, Bopal, Ahmedabad
 - **Service Center:** B/S Kabir Mobile, Bopal Main Road, Bopal, Ahmedabad
 - **Phone:** +91 8320383785
-- **WhatsApp:** +91 99980 11004
+- **WhatsApp:** +91 8320383785
 - **Email:** sales@dbimpex.in
 - **Website:** [https://dbimpex.in/](https://dbimpex.in/)

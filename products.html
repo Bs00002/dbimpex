@@ -71,8 +71,8 @@
         </div>
         <div class="top-bar-right">
           <div class="top-info-item">
-            <a href="https://wa.me/919998011004" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:0.35rem;color:#34D399;font-weight:600;">
-              <span>WhatsApp: +91 99980 11004</span>
+            <a href="https://wa.me/918320383785" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:0.35rem;color:#34D399;font-weight:600;">
+              <span>WhatsApp: +91 8320383785</span>
             </a>
           </div>
           <div class="top-social-links">
@@ -224,7 +224,7 @@
       <div style="margin-top:auto; padding-top:1.5rem; border-top:1px solid #E2E8F0;">
         <p style="font-size:0.85rem; color:#64748B; margin-bottom:0.75rem;">Need immediate assistance?</p>
         <a href="tel:+918320383785" class="btn btn-secondary btn-sm" style="width:100%; margin-bottom:0.5rem;">Call: +91 8320383785</a>
-        <a href="https://wa.me/919998011004" class="btn btn-accent btn-sm" style="width:100%;" target="_blank">Chat on WhatsApp</a>
+        <a href="https://wa.me/918320383785" class="btn btn-accent btn-sm" style="width:100%;" target="_blank">Chat on WhatsApp</a>
       </div>
     </div>
     
@@ -1953,7 +1953,7 @@
             <div class="footer-contact-item">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path></svg>
               <div>
-                WhatsApp: <a href="https://wa.me/919998011004" target="_blank" rel="noopener">+91 99980 11004</a>
+                WhatsApp: <a href="https://wa.me/918320383785" target="_blank" rel="noopener">+91 8320383785</a>
               </div>
             </div>
             <div class="footer-contact-item">
@@ -2025,7 +2025,7 @@
 
     <!-- Floating Action Buttons -->
     <div class="floating-actions">
-      <a href="https://wa.me/919998011004" target="_blank" rel="noopener" class="float-btn float-whatsapp" title="WhatsApp DB IMPEX" aria-label="WhatsApp Us">
+      <a href="https://wa.me/918320383785" target="_blank" rel="noopener" class="float-btn float-whatsapp" title="WhatsApp DB IMPEX" aria-label="WhatsApp Us">
         <svg width="26" height="26" viewBox="0 0 24 24" fill="currentColor"><path d="M12.031 6.172c-3.181 0-5.767 2.586-5.768 5.766-.001 1.298.38 2.27 1.019 3.287l-.711 2.598 2.668-.699c.969.584 1.769.882 2.792.882 3.182 0 5.767-2.587 5.768-5.766 0-3.18-2.586-5.768-5.768-5.768zm0-2.172c4.378 0 7.938 3.559 7.938 7.94 0 4.38-3.56 7.939-7.938 7.939-1.332 0-2.593-.332-3.7-.927l-4.331 1.135 1.155-4.225c-.663-1.163-1.062-2.511-1.062-3.922 0-4.381 3.56-7.94 7.938-7.94zm-1.897 10.749c-.279.141-.659.212-1.028.188-.415-.027-.852-.204-1.289-.481-1.127-.714-1.875-1.785-2.227-2.314-.351-.53-.027-.816.113-1.037.126-.197.279-.434.419-.651.139-.217.186-.372.279-.62.093-.248.047-.465-.023-.651-.07-.186-.628-1.512-.86-2.07-.226-.543-.456-.469-.628-.477-.163-.008-.349-.01-.535-.01-.186 0-.488.07-.744.349-.256.279-.977.954-.977 2.326s1.001 2.698 1.14 2.884c.14.186 1.968 3.006 4.77 4.215.666.288 1.187.46 1.593.589.67.213 1.28.183 1.761.111.537-.08 1.65-.674 1.883-1.325.233-.651.233-1.209.163-1.325-.07-.116-.256-.186-.535-.326z"/></svg>
       </a>
       <a href="tel:+918320383785" class="float-btn float-call" title="Call DB IMPEX" aria-label="Call Us Directly">

@@ -121,7 +121,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 <p style="margin: 1rem 0 2rem;">Your inquiry regarding <strong><?= htmlspecialchars($product) ?></strong> has been successfully received. Our security solutions team will contact you shortly.</p>
                 <div style="display: flex; gap: 1rem; justify-content: center;">
                     <a href="index.html" class="btn btn-primary">Return to Homepage</a>
-                    <a href="https://wa.me/919998011004" class="btn btn-accent" target="_blank">Chat on WhatsApp</a>
+                    <a href="https://wa.me/918320383785" class="btn btn-accent" target="_blank">Chat on WhatsApp</a>
                 </div>
             <?php else: ?>
                 <div class="success-icon" style="background: #FEE2E2; color: #DC2626;">!</div>
