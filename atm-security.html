@@ -266,8 +266,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Udar-T-2</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Udar-T-2 (ATM Security)">
             Request Quote
           </button>
@@ -281,8 +280,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Udar-STG</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Udar-STG (ATM Security)">
             Request Quote
           </button>
@@ -296,8 +294,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">SH-VTG</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="SH-VTG (ATM Security)">
             Request Quote
           </button>
@@ -311,8 +308,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">SH-VT</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="SH-VT (ATM Security)">
             Request Quote
           </button>

@@ -266,8 +266,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Fixed IP Cameras</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Fixed IP Cameras (CCTV Camera)">
             Request Quote
           </button>
@@ -281,8 +280,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Pan, Tilt & Zoom Cameras</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Pan, Tilt & Zoom Cameras (CCTV Camera)">
             Request Quote
           </button>
@@ -296,8 +294,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Panoramic IP Cameras</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Panoramic IP Cameras (CCTV Camera)">
             Request Quote
           </button>
@@ -311,8 +308,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Thermal Camera Solutions</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Thermal Camera Solutions (CCTV Camera)">
             Request Quote
           </button>
@@ -326,8 +322,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">CCTV Camera</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="CCTV Camera (CCTV Camera)">
             Request Quote
           </button>
@@ -341,8 +336,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Fortified Camera Systems</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Fortified Camera Systems (CCTV Camera)">
             Request Quote
           </button>
@@ -356,8 +350,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Multi-Sensor Camera</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Multi-Sensor Camera (CCTV Camera)">
             Request Quote
           </button>
@@ -371,8 +364,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">4K Camera</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="4K Camera (CCTV Camera)">
             Request Quote
           </button>
@@ -386,8 +378,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">In-Vehicle Camera</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="In-Vehicle Camera (CCTV Camera)">
             Request Quote
           </button>
@@ -401,8 +392,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Explosion/Flame Proof Camera</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Explosion/Flame Proof Camera (CCTV Camera)">
             Request Quote
           </button>
@@ -416,8 +406,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Remote Health Monitoring System</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Remote Health Monitoring System (CCTV Camera)">
             Request Quote
           </button>
@@ -431,8 +420,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Remote Health Monitoring System</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Remote Health Monitoring System (CCTV Camera)">
             Request Quote
           </button>

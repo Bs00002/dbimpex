@@ -266,8 +266,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Branch Pipe</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Branch Pipe (Fire Hydrant)">
             Request Quote
           </button>
@@ -281,8 +280,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Couplings</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Couplings (Fire Hydrant)">
             Request Quote
           </button>
@@ -296,8 +294,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Fire Bucket</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Fire Bucket (Fire Hydrant)">
             Request Quote
           </button>
@@ -311,8 +308,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Fire Hose</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Fire Hose (Fire Hydrant)">
             Request Quote
           </button>
@@ -326,8 +322,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Hose Reel</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Hose Reel (Fire Hydrant)">
             Request Quote
           </button>
@@ -341,8 +336,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Landing Valves Double</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Landing Valves Double (Fire Hydrant)">
             Request Quote
           </button>
@@ -356,8 +350,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Landing Valves Single</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Landing Valves Single (Fire Hydrant)">
             Request Quote
           </button>
@@ -371,8 +364,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Fire Extinguisher</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Fire Extinguisher (Fire Hydrant)">
             Request Quote
           </button>

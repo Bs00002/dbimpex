@@ -266,8 +266,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Timer for Industrial Siren</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Timer for Industrial Siren (Fire Detection)">
             Request Quote
           </button>
@@ -281,8 +280,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Analogue Addressable Fire Equipment</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Analogue Addressable Fire Equipment (Fire Detection)">
             Request Quote
           </button>
@@ -296,8 +294,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Conventional Fire Alarm Equipment</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Conventional Fire Alarm Equipment (Fire Detection)">
             Request Quote
           </button>
@@ -311,8 +308,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Emergency Voice Communication System</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Emergency Voice Communication System (Fire Detection)">
             Request Quote
           </button>
@@ -326,8 +322,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Flame Detection</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Flame Detection (Fire Detection)">
             Request Quote
           </button>
@@ -341,8 +336,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">EST4</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="EST4 (Fire Detection)">
             Request Quote
           </button>
@@ -356,8 +350,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">EST3: Life Safety Control Platform</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="EST3: Life Safety Control Platform (Fire Detection)">
             Request Quote
           </button>
@@ -371,8 +364,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Smoke Detector</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Smoke Detector (Fire Detection)">
             Request Quote
           </button>
@@ -386,8 +378,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Heat Detector</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Heat Detector (Fire Detection)">
             Request Quote
           </button>
@@ -401,8 +392,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">High Responsive Stand Alone Detector</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="High Responsive Stand Alone Detector (Fire Detection)">
             Request Quote
           </button>
@@ -416,8 +406,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Flame Detector</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Flame Detector (Fire Detection)">
             Request Quote
           </button>
@@ -431,8 +420,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Beam Detector</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Beam Detector (Fire Detection)">
             Request Quote
           </button>
@@ -446,8 +434,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Slow Responsive Stand Alone Detector</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Slow Responsive Stand Alone Detector (Fire Detection)">
             Request Quote
           </button>
@@ -461,8 +448,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Industrial Electrical Siren</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Industrial Electrical Siren (Fire Detection)">
             Request Quote
           </button>
@@ -476,8 +462,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Industrial Electrical Siren</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Industrial Electrical Siren (Fire Detection)">
             Request Quote
           </button>
@@ -491,8 +476,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Wireless</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Wireless (Fire Detection)">
             Request Quote
           </button>
@@ -506,8 +490,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Wireless Ditector</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Wireless Ditector (Fire Detection)">
             Request Quote
           </button>

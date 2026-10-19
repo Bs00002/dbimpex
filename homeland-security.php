@@ -266,8 +266,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">X Ray Baggage Scanner</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="X Ray Baggage Scanner (Homeland Security)">
             Request Quote
           </button>
@@ -281,8 +280,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">NLJD Detector</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="NLJD Detector (Homeland Security)">
             Request Quote
           </button>
@@ -296,8 +294,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Explosive Detector</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Explosive Detector (Homeland Security)">
             Request Quote
           </button>
@@ -311,8 +308,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Bomb Blanket</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Bomb Blanket (Homeland Security)">
             Request Quote
           </button>
@@ -326,8 +322,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Door Frame Metal Detector</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Door Frame Metal Detector (Homeland Security)">
             Request Quote
           </button>
@@ -341,8 +336,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Under Vehicle Scanner</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Under Vehicle Scanner (Homeland Security)">
             Request Quote
           </button>
@@ -356,8 +350,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Search Flashlight</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Search Flashlight (Homeland Security)">
             Request Quote
           </button>
@@ -371,8 +364,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Hand Held Metal Detector</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Hand Held Metal Detector (Homeland Security)">
             Request Quote
           </button>
@@ -386,8 +378,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Bollard</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Bollard (Homeland Security)">
             Request Quote
           </button>
@@ -401,8 +392,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Mobile Sim Detector</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Mobile Sim Detector (Homeland Security)">
             Request Quote
           </button>
@@ -416,8 +406,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Shock Baton & Poly Shield</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Shock Baton & Poly Shield (Homeland Security)">
             Request Quote
           </button>
@@ -431,8 +420,7 @@
       </div>
       <div class="product-card-body">
         <h4 class="product-card-title">Electric Perimeter Fencing</h4>
-      </div>
-      <div class="product-card-action">
+        <div class="product-card-action">
           <button class="btn btn-secondary btn-sm open-quote-modal" data-product="Electric Perimeter Fencing (Homeland Security)">
             Request Quote
           </button>
